@@ -1,0 +1,62 @@
+<data>
+	<student name="A">
+		<rno>1</rno>
+		<studName>Shubham</studName>
+		<studBranch>Production</studBranch>
+	</student>
+
+	<student name="B">
+		<rno>2</rno>
+		<studName>Rohan</studName>
+		<studBranch>Automobile</studBranch>
+	</student>
+
+	<student name="C">
+		<rno>3</rno>
+		<studName>Chetan</studName>
+		<studBranch>Instrumental</studBranch>
+	</student>
+
+	<student name="D">
+		<rno>4</rno>
+		<studName>Rohit</studName>
+		<studBranch>Electrical</studBranch>
+	</student>
+
+	<student name="E">
+		<rno>5</rno>
+		<studName>Kaustubha</studName>
+		<studBranch>Chemical</studBranch>
+	</student>
+
+	<student name="F">
+		<rno>6</rno>
+		<studName>Basav</studName>
+		<studBranch>Civil</studBranch>
+	</student>
+
+	<student name="G">
+		<rno>7</rno>
+		<studName>Rita</studName>
+		<studBranch>Mechanical</studBranch>
+	</student>
+
+	<student name="H">
+		<rno>8</rno>
+		<studName>Vrushali</studName>
+		<studBranch>Electronics and telecommunications</studBranch>
+	</student>
+
+	<student name="I">
+		<rno>9</rno>
+		<studName>Noddy</studName>
+		<studBranch>Computer</studBranch>
+	</student>
+
+	<student name="J">
+		<rno>10</rno>
+		<studName>Dipesh</studName>
+		<studBranch>Information Technology</studBranch>
+	</student>
+
+</data>
